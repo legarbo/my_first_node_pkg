@@ -1,0 +1,19 @@
+{
+  "name": "my_first_node_pkg",
+  "version": "0.0.0",
+  "description": "My very first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/legarbo/my_first_node_pkg.git"
+  },
+  "author": "Leopoldo Garcia <legarbo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legarbo/my_first_node_pkg/issues"
+  },
+  "homepage": "https://github.com/legarbo/my_first_node_pkg"
+}
